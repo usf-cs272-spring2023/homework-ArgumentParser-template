@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**INSTRUCTIONS**: Replace `FULL_NAME` with your first and last name. Replace `USER_NAME` with your USF username (*not* your Github username). Make sure to keep the `"` double quotes as-is (do not delete them). Open the issue and wait for Github Actions to respond with further instructions.
+**INSTRUCTIONS**: Replace `FULL_NAME` with your first and last name. Replace `USER_NAME` with your USF username (*not* your GitHub username). Make sure to keep the `"` double quotes as-is (do not delete them). Open the issue and wait for GitHub Actions to respond with further instructions.
 
 ```json
 {
@@ -16,4 +16,4 @@ assignees: ''
 }
 ```
 
-*The most recent Github Action run will be used to determine your grade. If you want to use a different action run, please reach out on Piazza.*
+*The most recent GitHub Action run will be used to determine your grade. If you want to use a different action run, please reach out on Piazza.*
